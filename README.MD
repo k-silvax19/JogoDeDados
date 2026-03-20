@@ -15,7 +15,7 @@ A Corrida de dados e um jogo em console que simula uma corrida de dados contra u
 4. Em seguida compile e execute o projeto com o comando:
 
    ```
-   dotnet run --project JogoDaForca.ConsoleApp
+   dotnet run --project JogoDeDados.ConsoleApp
    ```
 
 ## Requisitos
